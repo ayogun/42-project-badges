@@ -14,6 +14,7 @@ I gather cute little badges for 42 curriculum projects. Besides, I create my own
 | minitalk          | ![minitalk](./badges/minitalk.png)                         |
 | philosophers          | ![philosophers](./badges/philosophers.png)                         |
 | minishell          | ![minishell](./badges/minishell.png)                         |
+| NetPractice          | ![minishell](./badges/minishell.png)                         |
 
 </br></br>
 
@@ -29,4 +30,5 @@ I gather cute little badges for 42 curriculum projects. Besides, I create my own
 | minitalk          | ![minitalk](./covers/minitalk_cover.png)                         |
 | philosophers          | ![philosophers](./covers/philosophers_cover.png)                         |
 | minishell          | ![minishell](./covers/minishell_cover.png)                         |
+| NetPractice          | ![minishell](./covers/minishell_cover.png)                         |
 
