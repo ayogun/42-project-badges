@@ -16,7 +16,8 @@ Or feel free to contribute :)
 | minitalk          | ![minitalk](./badges/minitalk.png)                         |
 | philosophers          | ![philosophers](./badges/philosophers.png)                         |
 | minishell          | ![minishell](./badges/minishell.png)                         |
-| Net Practice          | ![net_practice](./badges/net_practice.png)                         |
+| netpractice          | ![net_practice](./badges/net_practice.png)                         |
+| cub3d          | ![cub3d](./badges/cub3d.png)                         |
 
 </br></br>
 
@@ -32,5 +33,6 @@ Or feel free to contribute :)
 | minitalk          | ![minitalk](./covers/minitalk_cover.png)                         |
 | philosophers          | ![philosophers](./covers/philosophers_cover.png)                         |
 | minishell          | ![minishell](./covers/minishell_cover.png)                         |
-| Net Practice          | ![net_practice](./covers/net_practice_cover.png)                         |
+| netpractice          | ![net_practice](./covers/net_practice_cover.png)                         |
+| cub3d          | ![cub3d](./covers/cub3d_cover.png)                         |
 
