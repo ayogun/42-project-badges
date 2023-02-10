@@ -6,7 +6,7 @@ Or feel free to contribute B-)
 
 ### ⭐ Badges
 
-| Project       | Badge                                              |
+| Project       | Badge w Bonus                                             |
 |:--------------|:--------------------------------------------------:|
 | libft         | ![Libft](./badges/libft-bonus.png)                 |
 | get_next_line | ![get_next_line](./badges/get_next_line-bonus.png) |
