@@ -30,7 +30,7 @@ Or feel free to contribute B-)
 | ft_printf     | ![ft_printf](./covers/ft_printf_cover.png)         |
 | born2beroot   | ![born2beroot](./covers/born2beroot_cover.png)     |
 | push_swap     | ![push_swap](./covers/push_swap_cover.png)         |
-| minitalk      | ![minitalk](./covers/minitalk_cover.png)           |
+| minitalk      | ![minitalk](./covers/minitalk_cover_bonus.png)           |
 | philosophers  | ![philosophers](./covers/philosophers_cover.png)   |
 | minishell     | ![minishell](./covers/minishell_cover.png)         |
 | netpractice   | ![net_practice](./covers/net_practice_cover.png)   |
