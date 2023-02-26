@@ -6,18 +6,18 @@ Or feel free to contribute B-)
 
 ### ⭐ Badges
 
-| Project       | Badge w Bonus                                             |
-|:--------------|:--------------------------------------------------:|
-| libft         | ![Libft](./badges/libft-bonus.png)                 |
-| get_next_line | ![get_next_line](./badges/get_next_line-bonus.png) |
-| ft_printf     | ![ft_printf](./badges/ft_printf-bonus.png)         |
-| born2beroot   | ![born2beroot](./badges/born2beroot-bonus.png)     |
-| push_swap     | ![push_swap](./badges/push_swap-bonus.png)         |
-| minitalk      | ![minitalk](./badges/minitalk-bonus.png)           |
-| philosophers  | ![philosophers](./badges/philosophers-bonus.png)   |
-| minishell     | ![minishell](./badges/minishell-bonus.png)         |
-| netpractice   | ![net_practice](./badges/net_practice-bonus.png)   |
-| cub3d         | ![cub3d](./badges/cub3d-bonus.png)                 |
+| Project       |Badge | With Bonus                                             |
+|:--------------|:--------------------------------------------------:|:--------------------------------------------------:|
+| libft         |![Libft](./badges/libft.png) | ![Libft](./badges/libft-bonus.png)                 |
+| get_next_line | |![get_next_line](./badges/get_next_line-bonus.png) |
+| ft_printf     | |![ft_printf](./badges/ft_printf-bonus.png)         |
+| born2beroot   | |![born2beroot](./badges/born2beroot-bonus.png)     |
+| push_swap     | |![push_swap](./badges/push_swap-bonus.png)         |
+| minitalk      | |![minitalk](./badges/minitalk-bonus.png)           |
+| philosophers  | |![philosophers](./badges/philosophers-bonus.png)   |
+| minishell     | |![minishell](./badges/minishell-bonus.png)         |
+| netpractice   | |![net_practice](./badges/net_practice-bonus.png)   |
+| cub3d         | |![cub3d](./badges/cub3d-bonus.png)                 |
 
 </br></br>
 
