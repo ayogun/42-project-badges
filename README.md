@@ -25,7 +25,7 @@ Or feel free to contribute B-)
 
 | Project       | Cover Pages                                        |
 |:--------------|:--------------------------------------------------:|
-| libft         | ![Libft](./covers/libft_cover.png)                 |
+| libft         | ![Libft](./covers/libft_cover_bonus.png)                 |
 | get_next_line | ![get_next_line](./covers/get_next_line_cover.png) |
 | ft_printf     | ![ft_printf](./covers/ft_printf_cover.png)         |
 | born2beroot   | ![born2beroot](./covers/born2beroot_cover.png)     |
