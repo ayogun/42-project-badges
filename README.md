@@ -9,15 +9,16 @@ Or feel free to contribute B-)
 | Project       |Badge | With Bonus                                             |
 |:--------------|:--------------------------------------------------:|:--------------------------------------------------:|
 | libft         |![Libft](./badges/libft.png) | ![Libft](./badges/libft-bonus.png)                 |
-| get_next_line | |![get_next_line](./badges/get_next_line-bonus.png) |
-| ft_printf     | |![ft_printf](./badges/ft_printf-bonus.png)         |
-| born2beroot   | |![born2beroot](./badges/born2beroot-bonus.png)     |
-| push_swap     | |![push_swap](./badges/push_swap-bonus.png)         |
-| minitalk      | |![minitalk](./badges/minitalk-bonus.png)           |
+| get_next_line |![get_next_line](./badges/get_next_line.png)|![get_next_line](./badges/get_next_line-bonus.png) |
+| ft_printf     |![ft_printf](./badges/ft_printf.png)  |![ft_printf](./badges/ft_printf-bonus.png)         |
+| born2beroot   |![born2beroot](./badges/born2beroot.png) |![born2beroot](./badges/born2beroot-bonus.png)     |
+| push_swap     |![push_swap](./badges/push_swap.png)   |![push_swap](./badges/push_swap-bonus.png)         |
+| minitalk      |![minitalk](./badges/minitalk.png)  |![minitalk](./badges/minitalk-bonus.png)           |
 | philosophers  |![philosophers](./badges/philosophers.png) |![philosophers](./badges/philosophers-bonus.png)   |
-| minishell     | |![minishell](./badges/minishell-bonus.png)         |
+| minishell     |![minishell](./badges/minishell.png) |![minishell](./badges/minishell-bonus.png)         |
 | netpractice   | |![net_practice](./badges/net_practice-bonus.png)   |
-| cub3d         | |![cub3d](./badges/cub3d-bonus.png)                 |
+| cub3d         |![cub3d](./badges/cub3d.png) |![cub3d](./badges/cub3d-bonus.png)                 |
+| minishell v2  |![minishell](./badges/minishell2.png) |![minishell](./badges/minishell-bonus2.png)|
 
 </br></br>
 
