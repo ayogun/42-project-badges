@@ -14,7 +14,7 @@ Or feel free to contribute B-)
 | born2beroot   | |![born2beroot](./badges/born2beroot-bonus.png)     |
 | push_swap     | |![push_swap](./badges/push_swap-bonus.png)         |
 | minitalk      | |![minitalk](./badges/minitalk-bonus.png)           |
-| philosophers  | |![philosophers](./badges/philosophers-bonus.png)   |
+| philosophers  |![philosophers](./badges/philosophers.png) |![philosophers](./badges/philosophers-bonus.png)   |
 | minishell     | |![minishell](./badges/minishell-bonus.png)         |
 | netpractice   | |![net_practice](./badges/net_practice-bonus.png)   |
 | cub3d         | |![cub3d](./badges/cub3d-bonus.png)                 |
