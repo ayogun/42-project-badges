@@ -13,6 +13,7 @@ Or feel free to contribute B-)
 | ft_printf     |![ft_printf](./badges/ft_printf.png)  |![ft_printf](./badges/ft_printf-bonus.png)         |
 | born2beroot   |![born2beroot](./badges/born2beroot.png) |![born2beroot](./badges/born2beroot-bonus.png)     |
 | push_swap     |![push_swap](./badges/push_swap.png)   |![push_swap](./badges/push_swap-bonus.png)         |
+| so_long     |![so_long](./badges/so_long.png)   |![so_long](./badges/so_long-bonus.png)         |
 | minitalk      |![minitalk](./badges/minitalk.png)  |![minitalk](./badges/minitalk-bonus.png)           |
 | philosophers  |![philosophers](./badges/philosophers.png) |![philosophers](./badges/philosophers-bonus.png)   |
 | minishell     |![minishell](./badges/minishell.png) |![minishell](./badges/minishell-bonus.png)         |
@@ -31,6 +32,7 @@ Or feel free to contribute B-)
 | ft_printf     | |![ft_printf](./covers/ft_printf_cover.png)         |
 | born2beroot   | |![born2beroot](./covers/born2beroot_cover.png)     |
 | push_swap     | |![push_swap](./covers/push_swap_cover.png)         |
+| so_long     | |![so_long](./covers/so_long_cover.png)         |
 | minitalk      | |![minitalk](./covers/minitalk_cover_bonus.png)           |
 | philosophers  | |![philosophers](./covers/philosophers_cover.png)   |
 | minishell     | |![minishell](./covers/minishell_cover.png)         |
