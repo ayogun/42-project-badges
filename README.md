@@ -7,22 +7,23 @@ Or feel free to contribute B-)
 ### ⭐ Badges
 
 | Project       |                    Badge                     |                        With Bonus                        |
-| :------------ | :------------------------------------------: | :------------------------------------------------------: |
-| libft         |         ![libft](./badges/libft.png)         |         ![libft-bonus](./badges/libft-bonus.png)         |
-| get_next_line | ![get_next_line](./badges/get_next_line.png) | ![get_next_line-bonus](./badges/get_next_line-bonus.png) |
-| born2beroot   |   ![born2beroot](./badges/born2beroot.png)   |   ![born2beroot-bonus](./badges/born2beroot-bonus.png)   |
-| ft_printf     |     ![ft_printf](./badges/ft_printf.png)     |     ![ft_printf-bonus](./badges/ft_printf-bonus.png)     |
-| minitalk      |                                              |      ![minitalk-bonus](./badges/minitalk-bonus.png)      |
-| minitalk alt  |  ![minitalk_alt](./badges/minitalk_alt.png)  |                                                          |
-| pipex         |      ![pipex](./badges/pipex_frame.png)      |         ![pipex-bonus](./badges/pipex-bonus.png)         |
-| so_long       |                                              |       ![so_long-bonus](./badges/so_long-bonus.png)       |
-| push_swap     |     ![push_swap](./badges/push_swap.png)     |     ![push_swap-bonus](./badges/push_swap-bonus.png)     |
-| philosophers  |  ![philosophers](./badges/philosophers.png)  |  ![philosophers-bonus](./badges/philosophers-bonus.png)  |
-| minishell     |     ![minishell](./badges/minishell.png)     |     ![minishell-bonus](./badges/minishell-bonus.png)     |
-| minishell alt | ![minishell_alt](./badges/minishell_alt.png) | ![minishell-bonus_alt](./badges/minishell-bonus_alt.png) |
-| netpractice   |  ![net_practice](./badges/net_practice.png)  |  ![net_practice-bonus](./badges/net_practice-bonus.png)  |
-| minirt        |        ![minirt](./badges/minirt.png)        |                                                          |
-| cub3d         |         ![cub3d](./badges/cub3d.png)         |            ![cub3d](./badges/cub3d-bonus.png)            |
+| :------------  | :------------------------------------------: | :------------------------------------------------------: |
+| libft          |         ![libft](./badges/libft.png)         |         ![libft-bonus](./badges/libft-bonus.png)         |
+| get_next_line  | ![get_next_line](./badges/get_next_line.png) | ![get_next_line-bonus](./badges/get_next_line-bonus.png) |
+| born2beroot    |   ![born2beroot](./badges/born2beroot.png)   |   ![born2beroot-bonus](./badges/born2beroot-bonus.png)   |
+| ft_printf      |     ![ft_printf](./badges/ft_printf.png)     |     ![ft_printf-bonus](./badges/ft_printf-bonus.png)     |
+| minitalk       |                                              |      ![minitalk-bonus](./badges/minitalk-bonus.png)      |
+| minitalk alt   |  ![minitalk_alt](./badges/minitalk_alt.png)  |                                                          |
+| pipex          |      ![pipex](./badges/pipex_frame.png)      |         ![pipex-bonus](./badges/pipex-bonus.png)         |
+| so_long        |                                              |       ![so_long-bonus](./badges/so_long-bonus.png)       |
+| push_swap      |     ![push_swap](./badges/push_swap.png)     |     ![push_swap-bonus](./badges/push_swap-bonus.png)     |
+| philosophers   |  ![philosophers](./badges/philosophers.png)  |  ![philosophers-bonus](./badges/philosophers-bonus.png)  |
+| minishell      |     ![minishell](./badges/minishell.png)     |     ![minishell-bonus](./badges/minishell-bonus.png)     |
+| minishell alt  | ![minishell_alt](./badges/minishell_alt.png) | ![minishell-bonus_alt](./badges/minishell-bonus_alt.png) |
+| netpractice    |  ![net_practice](./badges/net_practice.png)  |                                                          |
+| netpractice alt|                                              |  ![net_practice-bonus_alt](./badges/net_practice-bonus.png)  |
+| minirt         |        ![minirt](./badges/minirt.png)        |                                                          |
+| cub3d          |         ![cub3d](./badges/cub3d.png)         |            ![cub3d](./badges/cub3d-bonus.png)            |
 
 ---
 
