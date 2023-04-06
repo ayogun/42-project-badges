@@ -12,7 +12,8 @@ Or feel free to contribute B-)
 | get_next_line | ![get_next_line](./badges/get_next_line.png) | ![get_next_line-bonus](./badges/get_next_line-bonus.png) |
 | born2beroot   |   ![born2beroot](./badges/born2beroot.png)   |   ![born2beroot-bonus](./badges/born2beroot-bonus.png)   |
 | ft_printf     |     ![ft_printf](./badges/ft_printf.png)     |     ![ft_printf-bonus](./badges/ft_printf-bonus.png)     |
-| minitalk      |      ![minitalk](./badges/minitalk.png)      |      ![minitalk-bonus](./badges/minitalk-bonus.png)      |
+| minitalk      |                                              |      ![minitalk-bonus](./badges/minitalk-bonus.png)      |
+| minitalk alt  |  ![minitalk_alt](./badges/minitalk_alt.png)  |                                                          |
 | pipex         |      ![pipex](./badges/pipex_frame.png)      |         ![pipex-bonus](./badges/pipex-bonus.png)         |
 | so_long       |                                              |       ![so_long-bonus](./badges/so_long-bonus.png)       |
 | push_swap     |     ![push_swap](./badges/push_swap.png)     |     ![push_swap-bonus](./badges/push_swap-bonus.png)     |
