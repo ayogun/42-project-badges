@@ -21,7 +21,7 @@ Or feel free to contribute B-)
 | minishell      |     ![minishell](./badges/minishell.png)     |     ![minishell-bonus](./badges/minishell-bonus.png)     |
 | minishell alt  | ![minishell_alt](./badges/minishell_alt.png) | ![minishell-bonus_alt](./badges/minishell-bonus_alt.png) |
 | netpractice    |  ![net_practice](./badges/net_practice.png)  |                                                          |
-| netpractice alt|                                              |  ![net_practice-bonus_alt](./badges/net_practice-bonus.png)  |
+| netpractice alt|                                              |  ![net_practice-bonus_alt](./badges/net_practice-bonus_alt.png)  |
 | minirt         |        ![minirt](./badges/minirt.png)        |                                                          |
 | cub3d          |         ![cub3d](./badges/cub3d.png)         |            ![cub3d](./badges/cub3d-bonus.png)            |
 
