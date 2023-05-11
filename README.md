@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="badges/volunteerm.png" alt="ready to help"/>
+</p>
+
 <h1 align="center">
  42 Project - Badges
 </h1>
@@ -7,8 +11,8 @@
 </p>
 
 <p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/byaliego/42-project-badges?color=6272a4" />
-	<img alt="License" src="https://img.shields.io/github/license/byaliego/42-project-badges?color=6272a4"/>
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/byaliego/42-project-badges?color=5BCFFF" />
+	<img alt="License" src="https://img.shields.io/github/license/byaliego/42-project-badges?color=5BCFFF"/>
 </p>
 
 This repository is dedicated to collecting a wide variety of badges for the curriculum projects at 42 School. Whether you're a student, alumni, or simply an admirer of the school's projects, you'll find a delightful assortment of badges and covers to showcase your achievements.
