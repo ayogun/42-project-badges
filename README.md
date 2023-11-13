@@ -89,16 +89,16 @@ A cover page design for your projects da 42 School.
 | Project       |            Cover Pages             |                           With Bonus                           |
 | :------------ | :--------------------------------: | :------------------------------------------------------------: |
 | libft         | ![libft](./covers/cover-libft.png) |         ![libft-bonus](./covers/cover-libft-bonus.png)         |
-| get_next_line |                                    | ![get_next_line-bonus](./covers/cover-get_next_line-bonus.png) |
-| ft_printf     |                                    |     ![ft_printf-bonus](./covers/cover-ft_printf-bonus.png)     |
-| born2beroot   |                                    |   ![born2beroot-bonus](./covers/cover-born2beroot-bonus.png)   |
-| push_swap     |                                    |     ![push_swap-bonus](./covers/cover-push_swap-bonus.png)     |
-| so_long       |                                    |       ![so_long-bonus](./covers/cover-so_long-bonus.png)       |
-| minitalk      |                                    |      ![minitalk-bonus](./covers/cover-minitalk-bonus.png)      |
-| philosophers  |                                    |  ![philosophers-bonus](./covers/cover-philosophers-bonus.png)  |
-| minishell     |                                    |     ![minishell-bonus](./covers/cover-minishell-bonus.png)     |
-| netpractice   |                                    |  ![net_practice-bonus](./covers/cover-net_practice-bonus.png)  |
-| cub3d         |                                    |         ![cub3d-bonus](./covers/cover-cub3d-bonus.png)         |
+| get_next_line | ![get_next_line](./covers/cover-get_next_line.png) | ![get_next_line-bonus](./covers/cover-get_next_line-bonus.png) |
+| ft_printf     | ![ft_printf](./covers/cover-ft_printf.png) | ![ft_printf-bonus](./covers/cover-ft_printf-bonus.png)     |
+| born2beroot   | ![born2beroot](./covers/cover-born2beroot.png) | ![born2beroot-bonus](./covers/cover-born2beroot-bonus.png)   |
+| push_swap     | ![push_swap](./covers/cover-push_swap.png) | ![push_swap-bonus](./covers/cover-push_swap-bonus.png)     |
+| so_long       | ![so_long](./covers/cover-so_long.png) | ![so_long-bonus](./covers/cover-so_long-bonus.png)       |
+| minitalk      | ![minitalk](./covers/cover-minitalk.png) | ![minitalk-bonus](./covers/cover-minitalk-bonus.png)      |
+| philosophers  | ![philosophers](./covers/cover-philosophers.png) | ![philosophers-bonus](./covers/cover-philosophers-bonus.png)  |
+| minishell     | ![minishell](./covers/cover-minishell.png) | ![minishell-bonus](./covers/cover-minishell-bonus.png)     |
+| netpractice   | ![net_practice](./covers/cover-net_practice.png) | ![net_practice-bonus](./covers/cover-net_practice-bonus.png)  |
+| cub3d         | ![cub3d](./covers/cover-cub3d.png) | ![cub3d-bonus](./covers/cover-cub3d-bonus.png)         |
 
 
 ## 📋 Issues
