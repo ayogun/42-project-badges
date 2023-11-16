@@ -15,6 +15,8 @@
 	<img alt="License" src="https://img.shields.io/github/license/byaliego/42-project-badges?color=5BCFFF"/>
 </p>
 
+*Those images were produced as a paid freelance contract between @lrcouto and 42 São Paulo, and, the right of use and distribution belongs to 42 São Paulo. They are not included in any kind of free-to-use license, they belong to a private entity.   Those badges are property of a private entity and should not be used willy-nilly.*
+
 This repository is dedicated to collecting a wide variety of badges for the curriculum projects at 42 School. Whether you're a student, alumni, or simply an admirer of the school's projects, you'll find a delightful assortment of badges and covers to showcase your achievements.
 
 Our collection features badges for various 42 curriculum projects, carefully gathered from different sources. In cases where a badge is missing or not readily available, we encourage you to contribute by adding your own designs. Feel free to put your creative skills to use and help us expand this repository!
