@@ -97,6 +97,7 @@ A cover page design for your projects da 42 School.
 | push_swap     | ![push_swap](./covers/cover-push_swap.png) | ![push_swap-bonus](./covers/cover-push_swap-bonus.png)     |
 | so_long       | ![so_long](./covers/cover-so_long.png) | ![so_long-bonus](./covers/cover-so_long-bonus.png)       |
 | minitalk      | ![minitalk](./covers/cover-minitalk.png) | ![minitalk-bonus](./covers/cover-minitalk-bonus.png)      |
+| pipex         | ![pipex](./covers/cover-pipex.png) | ![pipex-bonus](./covers/cover-pipex-bonus.png)      |
 | philosophers  | ![philosophers](./covers/cover-philosophers.png) | ![philosophers-bonus](./covers/cover-philosophers-bonus.png)  |
 | minishell     | ![minishell](./covers/cover-minishell.png) | ![minishell-bonus](./covers/cover-minishell-bonus.png)     |
 | netpractice   | ![net_practice](./covers/cover-net_practice.png) | ![net_practice-bonus](./covers/cover-net_practice-bonus.png)  |
