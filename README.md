@@ -102,6 +102,7 @@ A cover page design for your projects da 42 School.
 | minishell     | ![minishell](./covers/cover-minishell.png) | ![minishell-bonus](./covers/cover-minishell-bonus.png)     |
 | netpractice   | ![net_practice](./covers/cover-net_practice.png) | ![net_practice-bonus](./covers/cover-net_practice-bonus.png)  |
 | cub3d         | ![cub3d](./covers/cover-cub3d.png) | ![cub3d-bonus](./covers/cover-cub3d-bonus.png)         |
+| cpp           | ![cpp](./covers/cover-cpp.png) | ![cpp-bonus](./covers/cover-cpp-bonus.png)         |
 
 
 ## 📋 Issues
