@@ -104,6 +104,7 @@ A cover page design for your projects da 42 School.
 | cub3d         | ![cub3d](./covers/cover-cub3d.png) | ![cub3d-bonus](./covers/cover-cub3d-bonus.png)         |
 | cpp           | ![cpp](./covers/cover-cpp.png) | ![cpp-bonus](./covers/cover-cpp-bonus.png)         |
 | webserv       | ![webserv](./covers/cover-webserv.png) | ![webserv-bonus](./covers/cover-webserv-bonus.png)         |
+| ft_transcendence | ![webserv](./covers/cover-ft_transcendence.png) | ![webserv-bonus](./covers/cover-ft_transcendence-bonus.png)         |
 
 
 ## 📋 Issues
